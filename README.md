@@ -1,6 +1,6 @@
 # Login-panel
 
-If you want to see a short preview of this project, please open the Preview.PNG file.
+Simple login page with elegant and futuristic UI
 
-Please open the register.php to see the content of the page.
+[login-panel.gif](https://postimg.cc/PPwvkHVc)
 
