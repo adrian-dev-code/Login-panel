@@ -2,4 +2,4 @@
 
 Simple login page with elegant and futuristic UI
 
-[![login-panel.gif](https://i.postimg.cc/FHtvj6HY/login-panel.gif)](https://postimg.cc/9rBs2JT2)
+[![login-panel.gif](https://i.postimg.cc/W3ZCbN0S/login-panel.gif)](https://postimg.cc/sQVwTR6Z)
